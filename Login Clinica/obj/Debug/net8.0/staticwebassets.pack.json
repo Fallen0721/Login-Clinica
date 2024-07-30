@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\obj\\Debug\\net8.0\\compressed\\bwi4776qtw.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Login Clinica.styles.css",
+      "PackagePath": "staticwebassets\\Login Clinica.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Login Clinica.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Login Clinica.props",
+      "PackagePath": "build\\Login Clinica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Login Clinica.props",
+      "PackagePath": "buildMultiTargeting\\Login Clinica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Login Clinica.props",
+      "PackagePath": "buildTransitive\\Login Clinica.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
