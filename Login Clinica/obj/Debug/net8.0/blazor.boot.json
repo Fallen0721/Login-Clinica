@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Login Clinica",
   "resources": {
-    "hash": "sha256-/c0Px/xB3obAFleRD2sfft3L94WU1qNpbhVXU/khF2A=",
+    "hash": "sha256-8+BrTZczCVnBgSszm842v3ULlS9jWTzIu2CxIRcUqrk=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.hwm74egau3.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "Login Clinica.wasm": "sha256-cDxme3QSNS5/aXqJRI5n61Dk5sAuwlBNVLSIroZALYQ="
+      "Login Clinica.wasm": "sha256-Lo26VyFQIaC6HrvCjM0rw0zds0dkPlW88o5bCNUIKho="
     },
     "pdb": {
-      "Login Clinica.pdb": "sha256-Rm5Jp2+gPMnYcjUkYtaioxaIR9DyuCIya3VCHABCp78="
+      "Login Clinica.pdb": "sha256-rHaRq2IGn/TNuTD47AOM+kgPox9uBpJof470/gpXuNo="
     }
   },
   "cacheBootResources": true,

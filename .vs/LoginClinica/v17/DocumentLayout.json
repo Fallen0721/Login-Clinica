@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\pc gaming\\desktop\\login clinica\\login clinica\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Login Clinica\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Login Clinica\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T22:20:06.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
