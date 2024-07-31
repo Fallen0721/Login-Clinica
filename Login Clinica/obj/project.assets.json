@@ -2059,19 +2059,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC GAMING\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\Login Clinica.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Login-Clinica\\Login Clinica\\Login Clinica.csproj",
       "projectName": "Login Clinica",
-      "projectPath": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\Login Clinica.csproj",
-      "packagesPath": "C:\\Users\\PC GAMING\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC GAMING\\Desktop\\Login Clinica\\Login Clinica\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Login-Clinica\\Login Clinica\\Login Clinica.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Login-Clinica\\Login Clinica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
