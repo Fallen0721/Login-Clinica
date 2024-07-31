@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Login-Clinica/v17/.wsuo
+/.vs/LoginClinica/FileContentIndex/a5f72fa0-7e35-4452-9e2b-da4e52c351fa.vsidx
+/.vs/LoginClinica/FileContentIndex/d96649db-cc99-4c7b-9d02-a0a36a6fd1e7.vsidx
+/.vs/LoginClinica/FileContentIndex/f05d03fb-842b-457c-b4cc-032b881c9b02.vsidx
+/.vs/LoginClinica/v17/DocumentLayout.json
+/Login Clinica/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.7.yd8uq5uw2q.js
+/Login Clinica/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.7.yd8uq5uw2q.js.gz
+/Login Clinica/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.7.lykcumxg41.js
+/Login Clinica/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.7.lykcumxg41.js.gz
+*.gitignore
+/.vs/LoginClinica/v17/DocumentLayout.json
