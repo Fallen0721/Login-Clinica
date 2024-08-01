@@ -3,7 +3,7 @@
 <PageTitle>Datos Complementarios</PageTitle>
 
 <h1>Datos Complementarios</h1>
-<form class"form-group">
+<form asp-action="Index" method="post" enctype="multipart/form-data">
     <div class="container">
         <h2>Identificación</h2>
         <div class="body">
@@ -21,14 +21,11 @@
             </div>
             <div class="col-4">
                 <label class="label" for="Rasgos">Rasgos Fisicos:</label>
-                <input type="textarea">
+                <input type="text" id="Rasgos" class="container">
             </div>
 
         </div>
     </div>
-</form>
-
-<form>
 <div class="container">
     <h2>Datos Geográficos</h2>
     <div class="row">
@@ -38,7 +35,7 @@
         </div>
         <div class="col-4">
             <label for="ubicacionGeoreferencial">Ubicación Georeferencial:</label>
-            <input type="text" id="ubicacionGeoreferencial" class="form-control">
+            <input type="text" id="ubicacionGeoreferencial" class="textarea">
         </div>
         <div class="col-4">
             <label for="ubicacionGeoreferencialAdicional">Ubicación Georeferencial Adicional:</label>
