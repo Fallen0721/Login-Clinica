@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Login-Clinica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\pages\\d_complement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\pages\\d_complement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\login clinica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\login clinica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\pages\\d_complement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|solutionrelative:login clinica\\pages\\d_complement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{572265A2-5BE6-47DF-8739-FEAB53339FAD}|Login Clinica\\Login Clinica.csproj|c:\\users\\user\\source\\repos\\login-clinica\\login clinica\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,11 +50,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Login Clinica",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Login Clinica.csproj",
+              "RelativeDocumentMoniker": "Login Clinica\\Login Clinica.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Login Clinica.csproj",
+              "RelativeToolTip": "Login Clinica\\Login Clinica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T03:39:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Login Clinica\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Login Clinica\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T03:36:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Login Clinica\\Pages\\Home.razor",
@@ -59,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Login Clinica\\wwwroot\\index.html",
@@ -67,42 +104,37 @@
               "RelativeToolTip": "Login Clinica\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-31T04:07:50.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T04:07:50.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Login Clinica\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Login Clinica\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAApAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAB8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T04:07:35.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "D_Complement.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Pages\\D_Complement.razor",
               "RelativeDocumentMoniker": "Login Clinica\\Pages\\D_Complement.razor",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Pages\\D_Complement.razor",
               "RelativeToolTip": "Login Clinica\\Pages\\D_Complement.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T04:15:56.453Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Login Clinica\\Layout\\NavMenu.razor",
@@ -115,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Login Clinica\\Pages\\Weather.razor",
@@ -123,16 +155,11 @@
               "RelativeToolTip": "Login Clinica\\Pages\\Weather.razor",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T05:25:24.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-31T05:25:24.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Login Clinica\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -140,12 +167,11 @@
               "RelativeToolTip": "Login Clinica\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-31T04:10:37.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T04:10:37.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Login-Clinica\\Login Clinica\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Login Clinica\\Layout\\MainLayout.razor.css",
@@ -153,8 +179,7 @@
               "RelativeToolTip": "Login Clinica\\Layout\\MainLayout.razor.css",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwFMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T22:20:06.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T22:20:06.369Z"
             }
           ]
         }
