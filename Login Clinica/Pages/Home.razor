@@ -1,7 +1,8 @@
 ﻿@page "/"
 
-<h3>Datos Personales</h3>
-<div class="form-container">
+<form asp-action="Index" method="post" enctype="multipart/form-data">
+<div class="container">
+    <h3>Datos Personales</h3>
     <div class="form-row">
         <div class="form-column">
             <label>Nombres:</label>
@@ -37,8 +38,9 @@
     </div>
 </div>
 
-<h3>Documentación y Contacto</h3>
-<div class="form-container">
+
+<div class="container">
+    <h3>Documentación y Contacto</h3>
     <div class="form-row">
         <div class="form-column">
             <label>No. Historia:</label>
@@ -67,8 +69,9 @@
     </div>
 </div>
 
-<h3>Información de Salud</h3>
-<div class="form-container">
+
+<div class="container">
+    <h3>Información de Salud</h3>
     <div class="form-row">
         <div class="form-column">
             <label>Estado de Historia:</label>
@@ -86,6 +89,8 @@
 </div>
 
 <button @onclick="GuardarDatos" class="btn btn-primary">Guardar</button>
+
+</form>
 
 @code {
     private string nombres;
@@ -125,11 +130,7 @@
         flex: 1;
     }
 
-    .form-control {
-        width: 100%;
-        padding: 8px;
-        box-sizing: border-box;
-    }
+ 
 
     .btn {
         margin-top: 20px;
