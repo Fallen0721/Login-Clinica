@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,8 +7,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\Grupo_Fam.razor" />
+    <Content Remove="Pages\G_Familiar.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.7" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\G_Familiar.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Grupo_Fam.razor" />
+    <_ContentIncludedByDefault Remove="Pages\G_Familiar.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\CategorySelector.razor" />
+    <None Include="Pages\Grupo_Fam.razor" />
+    <None Include="Pages\G_Familiar.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Grupo_Fam.razor" />
   </ItemGroup>
 
 </Project>
